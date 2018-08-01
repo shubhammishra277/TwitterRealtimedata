@@ -3,12 +3,16 @@ This module is used to fetch realtime data tweets related to any topic.Module st
 
 
 #How to use code:
+
+
 a.)Code reads configuration from the file named config.ini
 b.)config.ini contains logging_level header and user header
 c.)logging_level header contains the level on which you want logginng and user header contains twitter credentails for the user app.
 
 
 #Command to use code:
+
+
 
 1.)python Streamdata.py -ushubham -s"NRC,Assam,Mamta Banerjee,mamta" -f"/home/shubham/Desktop/streaming.txt"
 2.)Use python Streamdata.py -h to know more about arguements.
