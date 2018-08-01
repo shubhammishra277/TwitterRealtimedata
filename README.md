@@ -23,11 +23,22 @@ Optional app description
 
 Options:
   -h, --help            show this help message and exit
+  
   -u USERNAME, --username=USERNAME
+  
+  
                         enter the username for which you have access
                         token,consumer_token etc.
+                        
+                        
   -s SEARCH_STRING, --search_string=SEARCH_STRING
+  
+  
                         Query string which you want to filter for realtimedata
+                        
+                        
   -f FILEPATH, --filepath=FILEPATH
+  
+  
                         enter the filepath in which you want to write real
                         time data
