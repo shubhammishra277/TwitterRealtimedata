@@ -8,7 +8,6 @@ from loggermodule import logger_test
 from configgetter import configparser
 
 import sys
-from anaconda_navigator.external.binaryornot.check import logger
 reload(sys)
 
 sys.setdefaultencoding('utf8')
